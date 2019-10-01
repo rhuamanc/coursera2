@@ -1,0 +1,24 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "primer proyecto",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "dev":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhuamanc/coursera2.git"
+  },
+  "author": "Ricardo Huaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhuamanc/coursera2/issues"
+  },
+  "homepage": "https://github.com/rhuamanc/coursera2#readme"
+}
